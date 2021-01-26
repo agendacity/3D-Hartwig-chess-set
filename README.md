@@ -10,3 +10,5 @@ See it in action : http://codepen.io/juliangarnier/full/BsIih
 
 * Photon : http://photon.attasi.com
 * Chess.js : https://github.com/jhlywa/chess.js
+
+Link: https://agendacity.github.io/3D-Hartwig-chess-set/
